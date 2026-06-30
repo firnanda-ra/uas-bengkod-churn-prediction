@@ -34,5 +34,5 @@ streamlit run app.py
 [Streamlit App URL]
 
 ## 👤 Author
-- Nama: [Nama Anda]
-- NIM: [NIM Anda]
+- Nama : Firnanda Rahmawati
+- NIM: A11.2023.15373
